@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZDLPM</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Mensagens</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Não pode salvar registro sem ID!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Não pode salvar registro sem título!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Não pode salvar registro sem equipe!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Não pode salvar registro sem responsável!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Não pode salvar registro sem descrição!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Não pode salvar registro sem comentário!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Não pode salvar registro sem ticket!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPM</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Não pode salvar registro sem usuário!</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

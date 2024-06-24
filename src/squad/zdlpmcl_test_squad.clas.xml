@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZDLPMCL_TEST_SQUAD</CLSNAME>
+    <LANGU>P</LANGU>
+    <DESCRIPT>DLPM - Classe de Testes Equipe</DESCRIPT>
+    <CATEGORY>05</CATEGORY>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <RISK_LEVEL>11</RISK_LEVEL>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>DELETE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Sucesso - Deletar</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>EDIT</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Sucesso - Edição</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FILLED</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Sucesso - Totalmente Preenchido</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GO_SQUAD</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>DLPM - Equipe</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>HAS_NO_DESCRIPTION</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Erro - Sem Descrição</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SETUP</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Inicio dos Testes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TEARDOWN</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Fim dos Testes</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>DELETE</CMPNAME>
+     <SCONAME>ZCX_DLPM_003</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>DLPM - Exception class</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>EDIT</CMPNAME>
+     <SCONAME>ZCX_DLPM_003</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>DLPM - Exception class</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FILLED</CMPNAME>
+     <SCONAME>ZCX_DLPM_003</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>DLPM - Exception class</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>HAS_NO_DESCRIPTION</CMPNAME>
+     <SCONAME>ZCX_DLPM_003</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>DLPM - Exception class</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
