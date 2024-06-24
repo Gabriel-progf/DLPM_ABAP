@@ -44,10 +44,6 @@ Este projeto visa fornecer uma solução abrangente para o gerenciamento de proj
 2. Crie um novo ticket ou edite um existente.
 3. Acompanhe o progresso e atualize o status conforme necessário.
 
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 Este README fornece uma visão geral do projeto de Gerenciamento de Projetos desenvolvido em ABAP, incluindo suas funcionalidades, estrutura e informações para instalação e uso. Para dúvidas ou contribuições, siga as instruções fornecidas.
